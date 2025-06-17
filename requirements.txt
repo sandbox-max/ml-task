@@ -1,0 +1,25 @@
+# data handling and statistics
+pandas==2.3.0
+numpy==1.26.4
+statsmodels==0.14.4
+
+# visualization
+seaborn==0.13.2
+matplotlib==3.10.3
+matplotlib-inline==0.1.7
+
+# Machine learning
+keras==3.10.0
+scikit-learn==1.7.0
+
+# notebooks
+notebook==7.4.3
+jupyterlab==4.4.3
+
+# graph networks
+networkx==3.5
+python-louvain==0.16
+pyvis==0.3.2
+
+# time-series
+pmdarima==2.0.4
